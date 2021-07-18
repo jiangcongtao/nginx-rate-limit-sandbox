@@ -62,3 +62,7 @@ When doing these tests, you will want to pay attention to:
 - the response time it took, both for the rate-limited requests _and_ the succesfull requests
 
 You should see something like this, then you'll be able to play with all the other various locations/settings: ![burst5_output](burst5_demo.gif)
+
+## Reference
+- https://www.freecodecamp.org/news/nginx-rate-limiting-in-a-nutshell-128fe9e0126c/
+- https://www.nginx.com/blog/rate-limiting-nginx/
